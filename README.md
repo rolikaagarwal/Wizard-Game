@@ -1,4 +1,4 @@
-# EVIL-WIZARD
+# WIZARD Game
 
 ## TechStack Use
 
